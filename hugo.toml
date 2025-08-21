@@ -1,0 +1,4 @@
+baseURL = 'https://aelxbc.github.io'
+languageCode = 'pt-br'
+title = 'Site do Alex'
+theme = 'ananke'
